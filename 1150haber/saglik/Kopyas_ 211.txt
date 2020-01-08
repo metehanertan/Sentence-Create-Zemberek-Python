@@ -1,0 +1,17 @@
+﻿DNA için özel bilgisayar geliştirildi 
+
+İsrailli bilim adamları, bir trilyonu bir deney tüpüne girecek kadar küçük olan ve yüzde 99.8 oranında doğrulukla saniyede bir milyar işlem yapan DNA bilgisayarı geliştirdiler 
+
+Geliştirilen mikroskobik bilgisayarın girdi, çıktı ve yazılımının, canlı organizmalardaki kodlanmış bilgiyi depolayan DNA moleküllerinden yapıldığı belirtildi. 
+Weizmann Enstitüsü’nden Profesör Ehud Şapiro, biyo-moleküllerden yapılan çok çok küçük bir bilgisayar geliştirdiklerini, bunların bir trilyonunun biraraya gelmesiyle bir milyar işlem yapabildiklerini söyledi.
+
+Bilgisayarın girdi, çıktı, yazılım ve donanımının hepsinin biyo-moleküllerden yapılan ilk programlanabilir bilgisayar olduğu belirtildi. Yeni bilgisayarın, insan hücrelerinin içinde görev yapabilecek ve hastalık yapan etmenleri saptayıp, uygun ilaçları belirleyecek gelecekteki DNA bilgisayarlarının temelini oluşturabileceği belirtildi.
+
+Nature bilim dergisinde yazan Şapiro, en basit bilgisayar makinelerinin moleküler bir modeli olan DNA bilgisayarının, belli evet-hayır sorularına, kendiliğinden cevap verdiğini belirtti.
+
+Yeni bilgisayarda veriler, DNA ipliğindeki molekül çiftleri tarafından temsil ediliyor ve doğal olarak oluşan 2 enzim, kodları okumak ve kopyalamak için donanım olarak harekete geçiyor.
+
+Tüm DNA bilgisayarları bir tüpte toplandığında, yazılım ve donanım girdi molekülünde çalışmaya başlıyor ve çıktı oluşturuyor. 
+
+DNA bilgisayarının enerji kullanımının çok düşük olduğu da belirtildi. 
+

@@ -1,0 +1,11 @@
+﻿Akıllı otomobilden alkol uyarısı 
+
+Geleceğin otomobili alkollü sürücüyü önce uyaracak, olmazsa ''Yola devam edemem'' diyecek. 
+
+İngiltere'deki Bristol Üniversitesi tarafından geliştirilen ''alkol ölçüm'' sistemi, sürücü koltuğuna oturan kişinin alkollü olup olmadığını anlayacak.
+Otomobilin ön göğsüne yerleştirilecek alet, sürücünün ne kadar alkol aldığını ölçecek. Alet, sürücünün trafiğe çıkmasına olanak vermeyecek düzeyde alkollü olması halinde, ''Bu halde otomobil kullanamazsınız'' uyarısında bulunacak, sürücünün bu uyarıyı dikkate almaması halinde ise otomobilin hareketini engelleyecek.
+
+İngiltere'de Bilim Haftası kutlamaları çerçevesinde Cuma ve Cumartesi günlerinde Bristol'deki bir alışveriş merkezinde kamuoyuna tanıtılacak olan sistem, kızılötesi kamerayla sürücünün gözbebeklerinin hareketlerini izleyecek, direksiyon üzerine yerleştirilen monitör sayesinde de her türlü direksiyon hareketini kaydedecek. 
+
+
+

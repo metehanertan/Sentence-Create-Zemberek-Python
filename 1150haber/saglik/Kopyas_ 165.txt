@@ -1,0 +1,13 @@
+﻿İşaret dilini simültane tercüme edecek eldiven 
+
+Avustralya'daki bir üniversitede, sağır ve dilsizlerin kullandığı işaret dilini bu dili bilmeyenlere simültane tercüme edecek bir eldiven geliştiriliyor. 
+
+Avustralya'daki University of New South Wales araştırmacılarından Velid Kadus'un üzerinde çalıştığı projede, işaret dilini kullanan kişinin giydiği bir eldiven, işaretlenen kelimeleri bağlı olduğu bilgisayar ekranında görünecek şekilde yazılı İngilizce'ye dönüştürüyor. 
+Kadus, son denemede sistemin Avustralya'da kullanılan işaret dilini yüzde 95 doğrulukla çevirmeyi başardığını belirtti. 
+
+Ancak programın aşması gereken önemli zorluklar var. 
+
+İlk olarak, işaret dili normal dildeki tipik bir cümle içindeki her kelimeyi kullanmıyor. Öte yandan, işaret dilindeki her işaret, hemen hemen normal dildeki iki kelimenin yerine geçerken, herkes, bu işaretleri, aşağı yukarı aynı olmakla birlikte, kendi tarzı içinde yapıyor. 
+
+
+

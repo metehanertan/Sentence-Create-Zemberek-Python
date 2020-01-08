@@ -1,0 +1,11 @@
+﻿Elektron mikroskobuyla, hücre dilimlerinin ayrıntıları elde edildi 
+
+Colorado Üniversitesi'nde, yeni bir elektron mikroskobuyla, hücre dilimlerinin bugüne kadarki en ayrıntılı görüntüleri elde edildi. 
+
+Üç milyon dolarlık mikroskop sayesinde, hücre dilimlerinin 140 ayrı açıdan 3 boyutlu görüntülerinin alınabildiği açıklandı. 
+Elektron mikroskobunun, güçlü bir bilgisayara bağlı olarak, Colorado Üniversitesi tarafından geliştirilen bir yazılım programıyla çalıştığı belirtildi. 
+
+Mikroskobun bilgisayara aktardığı hücre dilimleriyle ilgili ayrıntılar bir araya getiriliyor ve özel yazılım programıyla 3 boyutlu görüntüye dönüştürülüyor. 
+
+Uzmanlar, elektron mikroskobu teknolojisiyle, hücreler arasındaki kromozom mekanizmasının hareketi ve hücrelerin bölünmesiyle ilgili moleküllerin tanımlanması gibi birçok konuda yeni bilgilere ulaşılmasını umuyor.
+
